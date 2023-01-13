@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @C-Amery
+- 👀 I’m interested in coding independently at first, but I would be happy to collaborate later on down the line
+- 🌱 I’m currently learning Python 3
+- 💞️ I’m looking to collaborate on anti-financial crime and security-related projects as soon as I'm proficient
+- 📫 Feel free to reach out to me anywhere on this platform :)
